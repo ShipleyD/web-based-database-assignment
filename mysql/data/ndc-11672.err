@@ -1,0 +1,22 @@
+120222 16:09:58 [Note] Plugin 'FEDERATED' is disabled.
+120222 16:09:59  InnoDB: Started; log sequence number 0 44233
+120222 16:10:00 [Note] Event Scheduler: Loaded 0 events
+120222 16:10:00 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120222 16:18:04 [Note] Plugin 'FEDERATED' is disabled.
+120222 16:18:04  InnoDB: Started; log sequence number 0 44233
+120222 16:18:04 [Note] Recovering after a crash using mysql-bin
+120222 16:18:04 [Note] Starting crash recovery...
+120222 16:18:04 [Note] Crash recovery finished.
+120222 16:18:04 [Note] Event Scheduler: Loaded 0 events
+120222 16:18:04 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120222 16:18:13 [ERROR] Invalid (old?) table or database name 'connor!'
+120222 16:21:05 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: Normal shutdown
+
+120222 16:21:05 [Note] Event Scheduler: Purging the queue. 0 events
+120222 16:21:05  InnoDB: Starting shutdown...
+120222 16:21:06  InnoDB: Shutdown completed; log sequence number 0 44233
+120222 16:21:06 [Warning] Forcing shutdown of 1 plugins
+120222 16:21:06 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: Shutdown complete
+

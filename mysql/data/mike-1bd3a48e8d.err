@@ -1,0 +1,21 @@
+120210 10:46:20 [Note] Plugin 'FEDERATED' is disabled.
+120210 10:46:21  InnoDB: Started; log sequence number 0 44233
+120210 10:46:21 [Note] Event Scheduler: Loaded 0 events
+120210 10:46:21 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120210 10:46:58 [Note] Plugin 'FEDERATED' is disabled.
+120210 10:46:58  InnoDB: Started; log sequence number 0 44233
+120210 10:46:58 [Note] Recovering after a crash using mysql-bin
+120210 10:46:58 [Note] Starting crash recovery...
+120210 10:46:58 [Note] Crash recovery finished.
+120210 10:46:58 [Note] Event Scheduler: Loaded 0 events
+120210 10:46:58 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
+120210 10:49:39 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: Normal shutdown
+
+120210 10:49:39 [Note] Event Scheduler: Purging the queue. 0 events
+120210 10:49:39  InnoDB: Starting shutdown...
+120210 10:49:41  InnoDB: Shutdown completed; log sequence number 0 44233
+120210 10:49:41 [Warning] Forcing shutdown of 1 plugins
+120210 10:49:41 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: Shutdown complete
+

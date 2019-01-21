@@ -1,0 +1,5 @@
+121114 17:51:58 [Note] Plugin 'FEDERATED' is disabled.
+121114 17:52:01  InnoDB: Started; log sequence number 0 44233
+121114 17:52:06 [Note] Event Scheduler: Loaded 0 events
+121114 17:52:06 [Note] F:\EASYPH~1.10\MySql\bin\mysqld.exe: ready for connections.
+Version: '5.1.37-community-log'  socket: ''  port: 3306  MySQL Community Server (GPL)
